@@ -1,31 +1,18 @@
 # linkStart
 
-> 在原demo的基础上添加了热替换功能
-
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
-
-# or
 
 npm install --registry=https://registry.npm.taobao.org
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm start
 
 # build for production with minification
 npm run build
 ```
-
-执行`npm start`后，访问
-
-`localhost:8080/login.html`
-
-或
-
-`localhost:8080/index.html`
 
 ## 问题解决
 
